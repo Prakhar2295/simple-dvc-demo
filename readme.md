@@ -25,5 +25,14 @@
 
   git commit -m "first commit"
 
+  git remote add origin https://github.com/Prakhar2295/simple-dvc-demo.git
+  git branch -M main
+  git add . && git commit -m "Update Readme.md "
+  git remote add origin https://github.com/Prakhar2295/simple-dvc-demo.git
+  git fetch origin main:tmp
+  git rebase tmp
+  git push origin HEAD:main
+  git branch -D tmp
+
 
   
