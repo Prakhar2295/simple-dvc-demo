@@ -2,6 +2,6 @@
   dvc[gdrive]
   sklearn
   pandas
-  yaml
+  strictyaml
   pytest
   tox
