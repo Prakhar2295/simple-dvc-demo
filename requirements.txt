@@ -1,3 +1,7 @@
+#local package install
+  -e .
+
+# third part install
   dvc
   dvc[gdrive]
   sklearn
@@ -5,3 +9,4 @@
   strictyaml
   pytest
   tox
+  flake8
