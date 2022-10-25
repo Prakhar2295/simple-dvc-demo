@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/7419b477b4a142a0918d5c0ab06205be/artifacts
+end_time: 1666526562093
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 7419b477b4a142a0918d5c0ab06205be
+run_name: mlops
+run_uuid: 7419b477b4a142a0918d5c0ab06205be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666526556178
+status: 4
+tags: []
+user_id: prath
